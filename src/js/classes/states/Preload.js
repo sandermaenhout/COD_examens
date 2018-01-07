@@ -6,9 +6,8 @@ export default class Preload extends Phaser.State {
     //Json
     this.load.atlasJSONHash(`hud`, `assets/hud.png`, `assets/hud.json`);
     this.load.atlasJSONHash(`components`, `assets/components.png`, `assets/components.json`);
-
-    //spritesheets
-    this.load.spritesheet(`ninja`, `assets/ninja.png`, 128, 128, 16);
+    this.load.atlasJSONHash(`ninja`, `assets/ninja.png`, `assets/ninja.json`);
+    this.load.atlasJSONHash(`bird`, `assets/bird.png`, `assets/bird.json`);
 
     //sounds
     this.load.audio(`coin`, `assets/coin.ogg`);
