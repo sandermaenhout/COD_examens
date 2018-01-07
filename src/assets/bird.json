@@ -1,0 +1,134 @@
+{
+  "frames": {
+    "bird0.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 53
+      }
+    },
+    "bird1.png": {
+      "frame": {
+        "x": 59,
+        "y": 0,
+        "w": 59,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 53
+      }
+    },
+    "bird2.png": {
+      "frame": {
+        "x": 0,
+        "y": 53,
+        "w": 59,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 53
+      }
+    },
+    "bird3.png": {
+      "frame": {
+        "x": 59,
+        "y": 53,
+        "w": 59,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 53
+      }
+    },
+    "bird4.png": {
+      "frame": {
+        "x": 0,
+        "y": 106,
+        "w": 59,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 53
+      }
+    },
+    "bird5.png": {
+      "frame": {
+        "x": 59,
+        "y": 106,
+        "w": 59,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 53
+      }
+    }
+  },
+  "meta": {
+    "app": "https://github.com/piskelapp/piskel/",
+    "version": "1.0",
+    "image": "bird.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 118,
+      "h": 159
+    }
+  }
+}
